@@ -2,6 +2,10 @@
   "name": "jest-styled-components-issue",
   "version": "1.0.0",
   "description": "issue report",
+  "engines": {
+    "node": "22.2.0",
+    "npm": "10.7.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest"
